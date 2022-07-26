@@ -24,6 +24,8 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 
 [Alura Voz Challenge](https://github.com/andre-almd/Alura_Challenge_Data_Science)
 
+[Detecção de objetos com streaming de vídeo por celular](https://github.com/andre-almd/ObjectDetection-StreamingRTMP)
+
 [Breast Cancer Wisconsin (Diagnostic)](https://github.com/andre-almd/alura_care)
 
 <!--
