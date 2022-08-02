@@ -22,7 +22,8 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 #### 💼 Projects:
 | Name |
 | --------------- |
-|[Total de vendas de seguros de viagem](https://github.com/andre-almd/Projeto_Vendas_De_Seguro-Data_Science_Academy)
+|[Total de vendas de seguros de viagem](https://github.com/andre-almd/Projeto_Vendas_De_Seguro-Data_Science_Academy)|
+|[Análise de dados do Airbnb - Lisboa](https://github.com/andre-almd/Analisando-os-Dados-do-Airbnb)|
 |[Alura Voz Challenge](https://github.com/andre-almd/Alura_Challenge_Data_Science)|
 |[Detecção de objetos com streaming de vídeo por celular](https://github.com/andre-almd/ObjectDetection-StreamingRTMP)|
 |[Breast Cancer Wisconsin (Diagnostic)](https://github.com/andre-almd/alura_care)|
