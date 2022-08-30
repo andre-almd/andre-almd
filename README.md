@@ -2,7 +2,7 @@
 
 I’m André Almeida, an Electrical Engineer who is interested in **Research** and **New Technologies**. 
 
-🔭 I’m currently working with **Artificial Intelligence** and **Computer Vision** on problems in the **Mining Industry**.
+🔭 I’m currently working with **Artificial Intelligence** and **Computer Vision** on problems in the **Industry 4.0**.
 
 👯 I’m looking to collaborate on **Industrial Automation** and **Machine Learning**.
 
