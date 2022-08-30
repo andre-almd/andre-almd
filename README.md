@@ -10,14 +10,14 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 
 #
 
-📫 How to reach me:
+#### 📫 How to reach me:
 
 [![](https://img.shields.io/badge/Linkedin-Andr%C3%A9-blue)](https://www.linkedin.com/in/andre-almdsantos/)
 [![](https://img.shields.io/badge/Lattes-Andr%C3%A9-blue)](http://lattes.cnpq.br/0777897683096605)
 
 #
 
-<h4 align="left">Languages and Tools:</h4>
+#### Languages and Tools:
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
