@@ -43,8 +43,8 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 
 #
 
-#### 💼 Projects:
-| Name |
+#### 💼:
+| Projects |
 | --------------- |
 |[Total de vendas de seguros de viagem](https://github.com/andre-almd/Projeto_Vendas_De_Seguro-Data_Science_Academy)|
 |[Detecção de fraude em cartões de crédito](https://github.com/andre-almd/Deteccao-de-Fraude-em-Cartoes-de-Credito)|
