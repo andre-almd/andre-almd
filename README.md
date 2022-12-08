@@ -12,8 +12,9 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 
 #### 📫 How to reach me:
 
-[![](https://img.shields.io/badge/Linkedin-Andr%C3%A9-blue)](https://www.linkedin.com/in/andre-almdsantos/)
-[![](https://img.shields.io/badge/Lattes-Andr%C3%A9-blue)](http://lattes.cnpq.br/0777897683096605)
+[![](https://img.shields.io/badge/Linkedin--blue)](https://www.linkedin.com/in/andre-almdsantos/)
+[![](https://img.shields.io/badge/Medium--blue)](https://medium.com/@andre-almd)
+[![](https://img.shields.io/badge/Lattes--blue)](http://lattes.cnpq.br/0777897683096605)
 
 #
 
