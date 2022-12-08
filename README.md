@@ -55,6 +55,11 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 |[Detecção de objetos com streaming de vídeo por celular](https://github.com/andre-almd/ObjectDetection-StreamingRTMP)|
 |[Breast Cancer Wisconsin (Diagnostic)](https://github.com/andre-almd/alura_care)|
 
+| Python Courses |
+| --------------- |
+|[Treinamento de Python para a Vale - Turma Brucutu](https://github.com/andre-almd/Treinamento_Python_Vale_Turma_Brucutu)|
+|[Inteligência Computacional da Especialização em Automação da Vale-ITV](https://github.com/andre-almd/Esp_ITV_Automacao_IC_2022)|
+
 
 <!--
 **andre-almd/andre-almd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
