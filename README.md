@@ -2,11 +2,11 @@
 
 I’m André Almeida, an Electrical Engineer who is interested in **Research** and **New Technologies**. 
 
-🔭 I’m currently working with **Artificial Intelligence** in problems in the **Industry 4.0**.
+🔭 I’m currently working with **Data Science** in problems in the **Industry 4.0**.
 
 👯 I’m looking to collaborate on **Industrial Automation** and **Machine Learning**.
 
-:book: I like to study about **AI**, **Data Science**, **Deep Learning** and **Computer Vision**.
+:book: I like to study about **Artificial Intelligence**, **Data Science**, **Deep Learning** and **Computer Vision**.
 
 #
 
