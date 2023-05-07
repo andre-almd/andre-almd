@@ -60,6 +60,7 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 |[Panorama do COVID 19 no Brasil e no mundo](https://github.com/andre-almd/Panorama-do-COVID-19-no-Brasil)|
 |[Detecção de objetos com streaming de vídeo por celular](https://github.com/andre-almd/ObjectDetection-StreamingRTMP)|
 |[Breast Cancer Wisconsin (Diagnostic)](https://github.com/andre-almd/alura_care)|
+|[Análise de Dados Socioeconômicos](https://github.com/andre-almd/WorldHappinesReport)|
 
 | Python Courses |
 | --------------- |
