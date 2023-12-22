@@ -57,7 +57,7 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 |[Detecção de fraude em cartões de crédito](https://github.com/andre-almd/Deteccao-de-Fraude-em-Cartoes-de-Credito)|
 |[Análise de dados do Airbnb - Lisboa](https://github.com/andre-almd/Analisando-os-Dados-do-Airbnb)|
 |[Churn Prediction](https://github.com/andre-almd/Churn-Prediction)|
-|[Risk Analysis in Public Transport]([https://github.com/andre-almd/Churn-Prediction](https://github.com/andre-almd/Risk-Analysis-in-Public-Transport))|
+|[Risk Analysis in Public Transport](https://github.com/andre-almd/Risk-Analysis-in-Public-Transport)|
 |[Panorama do COVID 19 no Brasil e no mundo](https://github.com/andre-almd/Panorama-do-COVID-19-no-Brasil)|
 |[Detecção de objetos com streaming de vídeo por celular](https://github.com/andre-almd/ObjectDetection-StreamingRTMP)|
 |[Breast Cancer Wisconsin (Diagnostic)](https://github.com/andre-almd/alura_care)|
