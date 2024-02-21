@@ -59,6 +59,7 @@ I’m André Almeida, an Electrical Engineer who is interested in **Research** a
 |[Churn Prediction](https://github.com/andre-almd/Churn-Prediction)|
 |[Sentiment Analysis ChatGPT Twitter](https://github.com/andre-almd/Sentiment-Analysis-ChatGPT-Twitter)|
 |[Risk Analysis in Public Transport](https://github.com/andre-almd/Risk-Analysis-in-Public-Transport)|
+|[Machine Learning With Data Version Control - DVC](https://github.com/andre-almd/dvc-test)|
 |[Panorama do COVID 19 no Brasil e no mundo](https://github.com/andre-almd/Panorama-do-COVID-19-no-Brasil)|
 |[Detecção de objetos com streaming de vídeo por celular](https://github.com/andre-almd/ObjectDetection-StreamingRTMP)|
 |[Breast Cancer Wisconsin (Diagnostic)](https://github.com/andre-almd/alura_care)|
